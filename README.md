@@ -45,8 +45,7 @@ _Sample output from the Equipment List endpoint._
 
 Watch a full demonstration of the API and its features:
 
-[![TechTrack API Demonstration](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID)
-_Click the image above to watch the video._
+[![TechTrack API Demonstration]](https://youtu.be/l1B6HFSyEvA)
 
 ---
 
